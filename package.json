@@ -1,0 +1,28 @@
+{
+  "name": "bs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.3",
+    "normalize-path": "^3.0.0",
+    "picomatch": "^2.3.1",
+    "source-map-js": "^1.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.62.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
