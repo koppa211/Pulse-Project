@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^7.1.0",
     "is-extglob": "^2.1.1",
     "is-glob": "^4.0.3",
     "normalize-path": "^3.0.0",
